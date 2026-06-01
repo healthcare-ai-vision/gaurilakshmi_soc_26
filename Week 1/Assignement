@@ -1,0 +1,20 @@
+Five interesting concepts:
+
+1. Human perception of colours.
+2. Different types of colour spaces.
+3. Filters and convulsions for image processing.
+4. Idea of image processing by division and splitting across segments and pixels.
+5. Introduction about how ML is useful to image processing in healthcare field.
+
+Types of Healthcare reports:
+
+1. Diagnostic/Laboratory: Blood tests, CT scans, X-rays,etc.
+  i. Blood test: To check sugar level, TSH, WBC,RBC count,etc.
+  ii. CT scan: Painless, non-invasive test that scans by passing X-rays from various angles for processing.
+  iii. Histopathology: To examine slides nad study manifestation of diseases.
+  iv. X-rays: To observe injuries and cracks in bones.
+  v. MRI: Non-invasive test using magnets and radio waves to observe images of organs, tissues,etc.
+
+2. Clinical: Consultation reports, SOAP notes
+3. Procedural/Hospitalisation: Operation, autopsy
+4. Medico-legal: Fitness test report,IME
